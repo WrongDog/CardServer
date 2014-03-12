@@ -1,0 +1,7 @@
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\CardServer\bin\Debug\CardServer.dll
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\CardServer\bin\Debug\CardServer.pdb
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\CardServer\obj\Debug\CardServer.dll
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\CardServer\obj\Debug\CardServer.pdb
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\CardServer\obj\Debug\CardServer.csprojResolveAssemblyReference.cache
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\CardServer\bin\Debug\DynamicMethod.dll
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\CardServer\bin\Debug\DynamicMethod.pdb

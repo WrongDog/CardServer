@@ -1,0 +1,4 @@
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\DynamicMethod\bin\Debug\DynamicMethod.dll
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\DynamicMethod\bin\Debug\DynamicMethod.pdb
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\DynamicMethod\obj\Debug\DynamicMethod.dll
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\DynamicMethod\obj\Debug\DynamicMethod.pdb

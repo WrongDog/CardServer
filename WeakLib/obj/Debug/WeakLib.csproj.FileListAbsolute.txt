@@ -1,0 +1,4 @@
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\WeakLib\bin\Debug\WeakLib.dll
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\WeakLib\bin\Debug\WeakLib.pdb
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\WeakLib\obj\Debug\WeakLib.dll
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\WeakLib\obj\Debug\WeakLib.pdb

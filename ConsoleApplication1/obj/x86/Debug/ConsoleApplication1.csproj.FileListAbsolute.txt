@@ -1,0 +1,7 @@
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\ConsoleApplication1\bin\Debug\WeakLib.dll
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\ConsoleApplication1\bin\Debug\WeakLib.pdb
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\youy\documents\visual studio 2010\Projects\CardServer\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
